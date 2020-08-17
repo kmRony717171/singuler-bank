@@ -1,1 +1,1 @@
-# singuler-bank
+https://kmrony717171.github.io/singuler-bank/. 
