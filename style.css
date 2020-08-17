@@ -1,0 +1,29 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    padding: 40px;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#dollar{
+    display: none;
+}
+.status{
+    color: white;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+.status h1{
+    font-weight: bold;
+}
+.deposit{
+    background-color: indigo;
+}
+.withdraw{
+    background-color: indianred;
+}
+.balance{
+    background-color: orange;
+}
